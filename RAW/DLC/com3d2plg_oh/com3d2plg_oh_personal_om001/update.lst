@@ -1,0 +1,10 @@
+0,0,GameData\csv_cbl.arc,681193,499B1011,1171
+share,../GameData\csv.arc,GameData\csv.arc,3202484,07294A43,1171
+share,../GameData\bg_personal_om001.arc,GameData\bg_personal_om001.arc,10232622,F7CD24A0,1000
+share,../GameData\csv_personal_om001.arc,GameData\csv_personal_om001.arc,4792,F9F3F134,1000
+share,../GameData\parts_personal_om001.arc,GameData\parts_personal_om001.arc,96988681,BC0DBE0D,1000
+share,../GameData\script_cbl_personal_om001.arc,GameData\script_cbl_personal_om001.arc,433515,071771DE,1000
+share,../GameData\sound_personal_om001.arc,GameData\sound_personal_om001.arc,2845124,E876EC07,1000
+share,../GameData\system_personal_om001.arc,GameData\system_personal_om001.arc,343114,596F2BE8,1000
+share,../GameData\voice_personal_om001.arc,GameData\voice_personal_om001.arc,3829547616,294D6727,1000
+share,../Preset\pre_mukuti.preset,Preset\pre_mukuti.preset,57950,25EDEBC2,1000

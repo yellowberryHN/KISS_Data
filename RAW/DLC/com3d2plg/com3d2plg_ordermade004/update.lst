@@ -1,0 +1,13 @@
+share,../GameData\patch\csv.arc,GameData\csv.arc,3217847,225CAE03,1181
+share,../GameData\patch\paths.dat,GameData\paths.dat,3065,585D679E,1181
+share,../GameData\patch\script.arc,GameData\script.arc,11781947,47F476C6,1181
+share,../GameData\patch\system2.arc,GameData\system2.arc,10762390,CDDC8851,1181
+share,../GameData\ordermade004\bg_ordermade004.arc,GameData\bg_ordermade004.arc,9161475,4240B0E2,1000
+share,../GameData\ordermade004\csv_ordermade004.arc,GameData\csv_ordermade004.arc,1283,CCD43F10,1000
+share,../GameData\ordermade004\script_ordermade004.arc,GameData\script_ordermade004.arc,3020390,25FDA5AA,1000
+share,../GameData\ordermade004\voice_ordermade004.arc,GameData\voice_ordermade004.arc,1135091702,9C0D135A,1000
+share,../Preset\12_dos.preset,Preset\12_dos.preset,50609,31EC34D9,100
+share,../GameData\GameData_20\material_personal004.arc,GameData_20\material_personal004.arc,56373,74A19CEC,100
+share,../GameData\GameData_20\menu_personal004.arc,GameData_20\menu_personal004.arc,32483,92EFB831,100
+share,../GameData\GameData_20\model_personal004.arc,GameData_20\model_personal004.arc,3471924,ACE43CE8,100
+share,../GameData\GameData_20\texture_personal004.arc,GameData_20\texture_personal004.arc,110285737,BCE30C35,100

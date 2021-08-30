@@ -1,0 +1,6 @@
+share,../GameData\cm\paths.dat,GameData\paths.dat,7570,42B5497E,1623
+share,../GameData\cm\prioritymaterial.arc,GameData\prioritymaterial.arc,263677,B549E49C,1623
+share,../GameData\cm\material_shop021.arc,GameData\material_shop021.arc,39432,8E7FBDC9,100
+share,../GameData\cm\menu_shop021.arc,GameData\menu_shop021.arc,24595,346CEC83,100
+share,../GameData\cm\model_shop021.arc,GameData\model_shop021.arc,2172948,40C791F1,100
+share,../GameData\cm\texture_shop021.arc,GameData\texture_shop021.arc,47712003,7B9856FE,100

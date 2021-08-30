@@ -1,0 +1,10 @@
+0,0,GameData\motion_magazine003.arc,28285890,CEE966FD,1000
+0,0,GameData\script_magazine003.arc,40454,8F80187C,1000
+share,../GameData\prioritymaterial.arc,GameData\prioritymaterial.arc,283422,68B1F345,1111
+share,../GameData\csv_magazine003.arc,GameData\csv_magazine003.arc,36776,D412F5C9,1000
+share,../GameData\parts_magazine003.arc,GameData\parts_magazine003.arc,54901822,96EA566B,1000
+share,../GameData\sound_magazine003.arc,GameData\sound_magazine003.arc,2068801,52383D53,1000
+share,../GameData\system_magazine003.arc,GameData\system_magazine003.arc,46657,1F3C4198,1000
+share,../GameData\voice_magazine003.arc,GameData\voice_magazine003.arc,13231493,CB4C378A,1000
+share,../GameData\movie\SUH_LS.ine,GameData\movie\SUH_LS.ine,16443244,3284D23C,1000
+share,../GameData\movie\SUH_T.ine,GameData\movie\SUH_T.ine,16360700,E8D7F846,1000

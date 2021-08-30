@@ -1,0 +1,8 @@
+0,0,GameData\script.arc,11707811,05491BF6,1112
+0,0,GameData\script_ordermade001.arc,2987042,5598B39A,1000
+share,../GameData\csv.arc,GameData\csv.arc,2858309,EF4D0D6B,1112
+share,../GameData\paths.dat,GameData\paths.dat,1959,3A0EAEBA,1111
+share,../GameData\parts2.arc,GameData\parts2.arc,118307227,1BC6079C,1112
+share,../GameData\bg_ordermade001.arc,GameData\bg_ordermade001.arc,11308378,D1912A29,1000
+share,../GameData\csv_ordermade001.arc,GameData\csv_ordermade001.arc,1128,E7ADDB38,1000
+share,../GameData\voice_ordermade001.arc,GameData\voice_ordermade001.arc,1303885030,83673567,1000

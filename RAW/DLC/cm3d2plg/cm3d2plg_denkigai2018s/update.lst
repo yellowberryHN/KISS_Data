@@ -1,0 +1,10 @@
+0,0,GameData\csv.arc,3715744,469B1266,1603
+0,0,GameData\paths.dat,6925,E9BEB642,1603
+0,0,GameData\prioritymaterial.arc,248695,1FCAA05E,1603
+0,0,GameData\script.arc,14639193,00CC5BCB,1603
+share,../GameData\cm3d2\csv_denkigai2018s.arc,GameData\csv_denkigai2018s.arc,1232,4287C0DD,100
+share,../GameData\cm3d2\material_denkigai2018s.arc,GameData\material_denkigai2018s.arc,31460,09D70415,100
+share,../GameData\cm3d2\menu_denkigai2018s.arc,GameData\menu_denkigai2018s.arc,48689,CE3AF8FE,100
+share,../GameData\cm3d2\model_denkigai2018s.arc,GameData\model_denkigai2018s.arc,2106217,E75F375E,100
+share,../GameData\cm3d2\motion_denkigai2018s.arc,GameData\motion_denkigai2018s.arc,765768,77F81E79,100
+share,../GameData\cm3d2\texture_denkigai2018s.arc,GameData\texture_denkigai2018s.arc,50776210,0ACD41AA,100

@@ -1,0 +1,15 @@
+share,../GameData\bg_personal_om008.arc,GameData\bg_personal_om008.arc,10400231,1A41F99E,1000
+share,../GameData\csv_personal_om008.arc,GameData\csv_personal_om008.arc,4741,B26C6450,1000
+share,../GameData\parts_personal_om008.arc,GameData\parts_personal_om008.arc,72843336,3AD74C0A,1000
+share,../GameData\parts_personal_om008_2.arc,GameData\parts_personal_om008_2.arc,22546,5A255A77,1000
+share,../GameData\script_cbl_personal_om008.arc,GameData\script_cbl_personal_om008.arc,478291,6672DC1D,1000
+share,../GameData\sound_personal_om008.arc,GameData\sound_personal_om008.arc,3020285,8521831B,1000
+share,../GameData\system_personal_om008.arc,GameData\system_personal_om008.arc,343128,9CC390E1,1000
+share,../GameData\voice_personal_om008.arc,GameData\voice_personal_om008.arc,1280695147,EE6228BB,1000
+share,../GameData\csv.arc,GameData\csv.arc,7209247,4E798293,1451
+share,../GameData\csv_cbl.arc,GameData\csv_cbl.arc,834985,D38723D6,1451
+share,../GameData\parts2.arc,GameData\parts2.arc,164500606,A4E6650D,1451
+share,../GameData\paths.dat,GameData\paths.dat,7568,5AE3DED4,1451
+share,../GameData\prioritymaterial.arc,GameData\prioritymaterial.arc,384739,A419F2DD,1451
+share,../GameData\script_cbl.arc,GameData\script_cbl.arc,6171210,E032BDB1,1451
+share,../Preset\pre_osananajimi.preset,Preset\pre_osananajimi.preset,58272,408C57C9,1000

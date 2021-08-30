@@ -1,0 +1,12 @@
+share,../GameData\cm3d2\paths.dat,GameData\paths.dat,9571,42891824,1667
+share,../GameData\cm3d2\csv.arc,GameData\csv.arc,4073055,44565715,1667
+share,../GameData\cm3d2\prioritymaterial.arc,GameData\prioritymaterial.arc,296088,30E2B34C,1667
+share,../GameData\cm3d2\script.arc,GameData\script.arc,14851638,2C50A289,1659
+share,../GameData\cm3d2\script_cbl.arc,GameData\script_cbl.arc,3635045,AB99AD49,16590
+share,../GameData\cm3d2\motion_denkigai2019w.arc,GameData\motion_denkigai2019w.arc,724609,D560F3C8,100
+share,../GameData\cm3d2\motion_cbl_denkigai2019w.arc,GameData\motion_cbl_denkigai2019w.arc,724618,F8FDA36B,100
+share,../GameData\cm3d2\csv_denkigai2019w.arc,GameData\csv_denkigai2019w.arc,1236,D773B3B8,100
+share,../GameData\cm3d2\menu_denkigai2019w.arc,GameData\menu_denkigai2019w.arc,107525,3A7411CE,100
+share,../GameData\cm3d2\material_denkigai2019w.arc,GameData\material_denkigai2019w.arc,96474,1A7F9433,100
+share,../GameData\cm3d2\texture_denkigai2019w.arc,GameData\texture_denkigai2019w.arc,162710576,2FCC5E21,100
+share,../GameData\cm3d2\model_denkigai2019w.arc,GameData\model_denkigai2019w.arc,5689487,BE6FCC32,100

@@ -1,0 +1,15 @@
+0,0,GameData\motion_cbl_karaoke003.arc,120010366,FDFEA3FC,1121
+0,0,GameData\script_cbl.arc,5146701,DCC441CA,1121
+share,../GameData\patch\csv.arc,GameData\csv.arc,2863685,3F659B8A,1121
+share,../GameData\bg_karaoke003.arc,GameData\bg_karaoke003.arc,3054652,98823FD7,1000
+share,../GameData\csv_karaoke.arc,GameData\csv_karaoke.arc,8496,59190F3A,1121
+share,../GameData\script_share_karaoke_2.arc,GameData\script_share_karaoke_2.arc,1939,1D789FA8,1121
+share,../GameData\csv_karaoke003.arc,GameData\csv_karaoke003.arc,829,C6072490,1000
+share,../GameData\parts_karaoke003.arc,GameData\parts_karaoke003.arc,34883827,6D408098,1000
+share,../GameData\script_share_karaoke.arc,GameData\script_share_karaoke.arc,38020,B19C801B,1121
+share,../GameData\script_share_karaoke003.arc,GameData\script_share_karaoke003.arc,179001,B505B712,1000
+share,../GameData\sound_karaoke003.arc,GameData\sound_karaoke003.arc,130938038,02BC3D6B,1000
+share,../GameData\voice_karaoke003.arc,GameData\voice_karaoke003.arc,117860230,5D84F896,1000
+share,../GameData\movie_karaoke003\BLD_K.ine,GameData\movie_karaoke003\BLD_K.ine,21367248,B85DFCE8,1000
+share,../GameData\movie_karaoke003\KAD_K.ine,GameData\movie_karaoke003\KAD_K.ine,20387525,24A2F095,1000
+share,../GameData\movie_karaoke003\NMF_K.ine,GameData\movie_karaoke003\NMF_K.ine,23487740,C31601F9,1000

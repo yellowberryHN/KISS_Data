@@ -1,0 +1,12 @@
+share,../GameData\csv.arc,GameData\csv.arc,3417079,A048400B,1201
+share,../GameData\paths.dat,GameData\paths.dat,3411,C3726513,1201
+share,../GameData\prioritymaterial.arc,GameData\prioritymaterial.arc,297812,41C32153,1201
+share,../GameData\script.arc,GameData\script.arc,11893700,0ABFDDE9,1201
+share,../GameData\bg_personal_om002.arc,GameData\bg_personal_om002.arc,7001080,0E135925,1000
+share,../GameData\csv_personal_om002.arc,GameData\csv_personal_om002.arc,4536,08DCA4BB,1000
+share,../GameData\parts_personal_om002.arc,GameData\parts_personal_om002.arc,81105011,F15BE23F,1000
+share,../GameData\script_personal_om002.arc,GameData\script_personal_om002.arc,2868210,EFA930C0,1000
+share,../GameData\sound_personal_om002.arc,GameData\sound_personal_om002.arc,3391561,60EE02F3,1000
+share,../GameData\system_personal_om002.arc,GameData\system_personal_om002.arc,390245,70A139CB,1000
+share,../GameData\voice_personal_om002.arc,GameData\voice_personal_om002.arc,1161011400,2A1162AD,1000
+share,../Preset\pre_koakuma.preset,Preset\pre_koakuma.preset,57183,1050D734,1000
