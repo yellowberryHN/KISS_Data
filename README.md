@@ -102,6 +102,8 @@ Included is a basic .NET 5.0 project which is used to generate the .json files.
 
 ## Contributing
 
+### ***I'm still missing a lot of content. Please contribute what you can.***
+
 When a new update is released or if you have files this repo is missing,
 you may submit a pull request to add them, or send them to me on Discord at
 **Yellow#7755**. I am also looking for DLC update metadata files,

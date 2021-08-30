@@ -35,6 +35,7 @@ namespace MeidoDataParser
         public bool outputFull;
         public string searchDir;
         public bool noDLC;
+        public bool showUnknownKeys;
     }
 
     class Program
@@ -83,28 +84,6 @@ namespace MeidoDataParser
 
         static void ParseIni(UpdatePack pack, string filename)
         {
-            string[] known = {
-                "Company",
-                "AppName",
-                "AppExe",
-                "Registry1",
-                "Category",
-                "Language",
-                // unimportant
-                "ShortcutName",
-                "ShortcutExe",
-                "ShortcutParam",
-                "VerExe",
-                "ReqVer",
-                "Company2",
-                "Registry2",
-                "RejectVerRangeMin",
-                "RejectVerRangeMax",
-                "RejectVerMsg",
-                "CheckFile",
-                "CheckFileCRC32"
-            };
-
             var ini = new Ini(filename);
             pack.company = ini.GetValue("Company", "UPDATER", null);
             pack.appName = ini.GetValue("AppName", "UPDATER", null);
@@ -112,11 +91,38 @@ namespace MeidoDataParser
             pack.registry = ini.GetValue("Registry1", "UPDATER", null);
             pack.category = ini.GetValue("Category", "UPDATER", null);
             pack.language = ini.GetValue("Language", "UPDATER", null);
-            
-            foreach (var key in ini.GetKeys("UPDATER").Except(known))
+
+            if(settings.showUnknownKeys) // hides "slow" LINQ behind config option, for speed emphasis.
             {
-                Console.WriteLine($"[INFO] Unknown key \"{key}\" with value \"{ini.GetValue(key, "UPDATER", null)}\" in {pack.name}");
+                string[] known = {
+                    "Company",
+                    "AppName",
+                    "AppExe",
+                    "Registry1",
+                    "Category",
+                    "Language",
+                    // unimportant
+                    "ShortcutName",
+                    "ShortcutExe",
+                    "ShortcutParam",
+                    "VerExe",
+                    "ReqVer",
+                    "Company2",
+                    "Registry2",
+                    "RejectVerRangeMin",
+                    "RejectVerRangeMax",
+                    "RejectVerMsg",
+                    "CheckFile",
+                    "CheckFileCRC32"
+                };
+
+                foreach (var key in ini.GetKeys("UPDATER").Except(known))
+                {
+                    Console.WriteLine($"[INFO] Unknown key \"{key}\" with value \"{ini.GetValue(key, "UPDATER", null)}\" in {pack.name}");
+                }
             }
+            
+            
         }
 
         static void ParseLst(UpdatePack pack, string filename)
