@@ -1,0 +1,210 @@
+0,0,CR EditSystem_Data\Managed\Accessibility.dll,12288,A6B03066,10400
+0,0,CR EditSystem_Data\Managed\Assembly-CSharp.dll,2453504,E22DEEAE,10400
+0,0,CR EditSystem_Data\Managed\Assembly-CSharp-firstpass.dll,597504,31A7288C,10400
+0,0,CR EditSystem_Data\Managed\DemiLib.dll,11264,8BB8AD9F,10400
+0,0,CR EditSystem_Data\Managed\DOTween.dll,158720,F49BD5A3,10400
+0,0,CR EditSystem_Data\Managed\DOTweenPro.dll,15872,9F4B62E8,10400
+0,0,CR EditSystem_Data\Managed\JsonFx.Json.dll,70144,A0F0CFCB,10400
+0,0,CR EditSystem_Data\Managed\MagicaCloth.dll,358912,CDB75ECC,10400
+0,0,CR EditSystem_Data\Managed\MessagePack.Annotations.dll,6144,2C9BA845,10400
+0,0,CR EditSystem_Data\Managed\MessagePack.dll,291840,45CBE4C0,10400
+0,0,CR EditSystem_Data\Managed\Mono.Data.Sqlite.dll,166912,458B648F,10400
+0,0,CR EditSystem_Data\Managed\Mono.Posix.dll,212480,1D5703BE,10400
+0,0,CR EditSystem_Data\Managed\Mono.Security.dll,309248,30F85061,10400
+0,0,CR EditSystem_Data\Managed\Mono.WebBrowser.dll,166912,F0EAE869,10400
+0,0,CR EditSystem_Data\Managed\mscorlib.dll,4072960,F14D6662,10400
+0,0,CR EditSystem_Data\Managed\NavMeshComponents.dll,16896,792BDA7B,10400
+0,0,CR EditSystem_Data\Managed\netstandard.dll,84992,35758195,10400
+0,0,CR EditSystem_Data\Managed\Newtonsoft.Json.dll,657408,7CACF906,10400
+0,0,CR EditSystem_Data\Managed\Novell.Directory.Ldap.dll,247296,5C9D4D42,10400
+0,0,CR EditSystem_Data\Managed\System.Buffers.dll,27992,1A7783D0,10400
+0,0,CR EditSystem_Data\Managed\System.ComponentModel.Composition.dll,256512,5D852BAE,10400
+0,0,CR EditSystem_Data\Managed\System.ComponentModel.DataAnnotations.dll,84480,E0D3B897,10400
+0,0,CR EditSystem_Data\Managed\System.Configuration.dll,124928,0449A8B7,10400
+0,0,CR EditSystem_Data\Managed\System.Core.dll,1046016,67F5E02D,10400
+0,0,CR EditSystem_Data\Managed\System.Data.dll,2081280,566B7ECE,10400
+0,0,CR EditSystem_Data\Managed\System.Design.dll,282112,D95394F5,10400
+0,0,CR EditSystem_Data\Managed\System.Diagnostics.StackTrace.dll,6656,FA544B72,10400
+0,0,CR EditSystem_Data\Managed\System.DirectoryServices.dll,93184,C1BF919F,10400
+0,0,CR EditSystem_Data\Managed\System.dll,2750976,229C78B8,10400
+0,0,CR EditSystem_Data\Managed\System.Drawing.Design.dll,29696,DBDC539C,10400
+0,0,CR EditSystem_Data\Managed\System.Drawing.dll,603696,D0553FB3,10400
+0,0,CR EditSystem_Data\Managed\System.EnterpriseServices.dll,44544,ECCB9906,10400
+0,0,CR EditSystem_Data\Managed\System.Globalization.Extensions.dll,6144,7AED6150,10400
+0,0,CR EditSystem_Data\Managed\System.IO.Compression.dll,98816,63D2D9A4,10400
+0,0,CR EditSystem_Data\Managed\System.IO.Compression.FileSystem.dll,23040,02497CE9,10400
+0,0,CR EditSystem_Data\Managed\System.Memory.dll,148760,AA9535EF,10400
+0,0,CR EditSystem_Data\Managed\System.Net.Http.dll,114688,63481ACC,10400
+0,0,CR EditSystem_Data\Managed\System.Numerics.dll,114176,BAB24A8A,10400
+0,0,CR EditSystem_Data\Managed\System.Numerics.Vectors.dll,102912,081BF7D7,10400
+0,0,CR EditSystem_Data\Managed\System.Runtime.CompilerServices.Unsafe.dll,23600,F3CFB256,10400
+0,0,CR EditSystem_Data\Managed\System.Runtime.dll,12800,5380EB8D,10400
+0,0,CR EditSystem_Data\Managed\System.Runtime.Serialization.dll,928256,105FE45D,10400
+0,0,CR EditSystem_Data\Managed\System.Runtime.Serialization.Formatters.Soap.dll,38400,CEA6CB8D,10400
+0,0,CR EditSystem_Data\Managed\System.Runtime.Serialization.Xml.dll,7168,CDCB2181,10400
+0,0,CR EditSystem_Data\Managed\System.Security.dll,184320,6A1F6F68,10400
+0,0,CR EditSystem_Data\Managed\System.ServiceModel.Internals.dll,214528,B7CE6DDF,10400
+0,0,CR EditSystem_Data\Managed\System.Threading.Tasks.Extensions.dll,33048,3B626F92,10400
+0,0,CR EditSystem_Data\Managed\System.Transactions.dll,34304,B7F89CBC,10400
+0,0,CR EditSystem_Data\Managed\System.Web.ApplicationServices.dll,33792,DC4D2127,10400
+0,0,CR EditSystem_Data\Managed\System.Web.dll,3154944,CBB3E871,10400
+0,0,CR EditSystem_Data\Managed\System.Web.Services.dll,727040,5061A4B8,10400
+0,0,CR EditSystem_Data\Managed\System.Windows.Forms.dll,2896384,7EB1358B,10400
+0,0,CR EditSystem_Data\Managed\System.Xml.dll,3137536,B565C00D,10400
+0,0,CR EditSystem_Data\Managed\System.Xml.Linq.dll,119296,73DE91C3,10400
+0,0,CR EditSystem_Data\Managed\System.Xml.XPath.XDocument.dll,5120,D922626E,10400
+0,0,CR EditSystem_Data\Managed\UniRx.dll,422912,6DB4719D,10400
+0,0,CR EditSystem_Data\Managed\UniTask.Addressables.dll,9728,1A4F3A75,10400
+0,0,CR EditSystem_Data\Managed\UniTask.dll,503808,A0AAD448,10400
+0,0,CR EditSystem_Data\Managed\UniTask.DOTween.dll,3584,CA12BFF4,10400
+0,0,CR EditSystem_Data\Managed\UniTask.Linq.dll,675840,83B4526C,10400
+0,0,CR EditSystem_Data\Managed\UniTask.TextMeshPro.dll,11776,26F01098,10400
+0,0,CR EditSystem_Data\Managed\Unity.Addressables.dll,79360,89621B44,10400
+0,0,CR EditSystem_Data\Managed\Unity.Analytics.DataPrivacy.dll,7680,84BC8353,10400
+0,0,CR EditSystem_Data\Managed\Unity.Burst.dll,163328,56E5D6A8,10400
+0,0,CR EditSystem_Data\Managed\Unity.Burst.Unsafe.dll,5632,D504B969,10400
+0,0,CR EditSystem_Data\Managed\Unity.Collections.dll,384512,82EA3CD6,10400
+0,0,CR EditSystem_Data\Managed\Unity.Collections.LowLevel.ILSupport.dll,4096,0C2DE885,10400
+0,0,CR EditSystem_Data\Managed\Unity.Jobs.dll,9728,BDE350C5,10400
+0,0,CR EditSystem_Data\Managed\Unity.Mathematics.dll,723968,D43326E5,10400
+0,0,CR EditSystem_Data\Managed\Unity.Postprocessing.Runtime.dll,149504,FA8A8D72,10400
+0,0,CR EditSystem_Data\Managed\Unity.RenderPipelines.Core.Runtime.dll,214528,62D75C42,10400
+0,0,CR EditSystem_Data\Managed\Unity.RenderPipelines.Core.ShaderLibrary.dll,3584,451EAD73,10400
+0,0,CR EditSystem_Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll,3584,3BDE372E,10400
+0,0,CR EditSystem_Data\Managed\Unity.ResourceManager.dll,83456,27E45011,10400
+0,0,CR EditSystem_Data\Managed\Unity.ScriptableBuildPipeline.dll,7680,4394D7EB,10400
+0,0,CR EditSystem_Data\Managed\Unity.TextMeshPro.dll,370688,42928D32,10400
+0,0,CR EditSystem_Data\Managed\Unity.Timeline.dll,111616,CEF718CB,10400
+0,0,CR EditSystem_Data\Managed\Unity.VisualEffectGraph.Runtime.dll,44544,03022068,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.AccessibilityModule.dll,12800,A222F76F,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.Advertisements.dll,31744,B38170AB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.AIModule.dll,45568,B9F5F794,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.AndroidJNIModule.dll,60928,F84E5A4F,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.AnimationModule.dll,150016,E0C820E6,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ARModule.dll,10240,70D0467A,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.AssetBundleModule.dll,22016,F8647B63,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.AudioModule.dll,58368,0BFDF749,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ClothModule.dll,15360,FC525FEB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ClusterInputModule.dll,10752,DFA6AE3D,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ClusterRendererModule.dll,11264,C9256EDB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.CoreModule.dll,1142784,3B3FAAC8,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.CrashReportingModule.dll,10240,AF1159CB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.DirectorModule.dll,13824,B8AE68C6,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.dll,91648,8C6CDB23,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.DSPGraphModule.dll,18432,40D3F207,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.GameCenterModule.dll,28160,E8D586CB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.GIModule.dll,9216,72658AE7,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.GridModule.dll,14336,AF6F908A,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.HotReloadModule.dll,9216,CEECC71E,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ImageConversionModule.dll,13312,C5329425,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.IMGUIModule.dll,159744,C6E20D81,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.InputLegacyModule.dll,26112,331D210F,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.InputModule.dll,12800,686DA0DE,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.JSONSerializeModule.dll,11264,8FD2DA14,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.LocalizationModule.dll,10240,E9B77775,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.Monetization.dll,29184,6C93A0F1,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ParticleSystemModule.dll,141824,202C972F,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.PerformanceReportingModule.dll,9728,FD243BD5,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.Physics2DModule.dll,107008,F87CA7DB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.PhysicsModule.dll,96768,34E7F14F,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ProfilerModule.dll,9216,74423B29,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.Purchasing.dll,28160,C3377012,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll,9216,33A7F754,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.ScreenCaptureModule.dll,10240,8EBDFAF8,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.SharedInternalsModule.dll,21504,51DB266B,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.SpatialTracking.dll,10752,C1EB3355,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.SpriteMaskModule.dll,10752,4585DE6A,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.SpriteShapeModule.dll,14336,FF70FEBE,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.StreamingModule.dll,10240,1DEE59C9,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.SubstanceModule.dll,13824,EDEB3A2D,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.SubsystemsModule.dll,24064,CB1C9D84,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.TerrainModule.dll,81920,A8161FC7,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.TerrainPhysicsModule.dll,10240,AB0AACBF,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.TextCoreModule.dll,185856,271231E4,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.TextRenderingModule.dll,28160,B8C72BE8,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.TilemapModule.dll,26624,7E757545,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.TLSModule.dll,9216,297E6E09,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UI.dll,230912,42A4295A,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UIElementsModule.dll,795136,DE58D67B,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UIElementsNativeModule.dll,47616,26D4466B,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UIModule.dll,24064,97BD37BF,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UmbraModule.dll,9216,379BDFC4,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UNETModule.dll,78848,24E39D70,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityAnalyticsModule.dll,33792,B5E824F1,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityConnectModule.dll,11264,08B6CD98,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityCurlModule.dll,10752,E9EB93D9,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityTestProtocolModule.dll,9216,E4D8CD99,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll,12288,9E5AA292,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll,11776,AAE9C06E,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityWebRequestModule.dll,44032,EF3CD199,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll,11264,3EA8A51E,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll,20480,9640E93D,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.VehiclesModule.dll,13312,FECB23BE,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.VFXModule.dll,39936,929FD0DA,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.VideoModule.dll,29696,6DDD8F13,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.VirtualTexturingModule.dll,23552,A5C3B5F5,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.VRModule.dll,15360,ADBB6879,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.WindModule.dll,10240,C738B8CB,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll,21504,D59C342A,10400
+0,0,CR EditSystem_Data\Managed\UnityEngine.XRModule.dll,55808,7B99F4D6,10400
+0,0,CR EditSystem_Data\Plugins\x86_64\Audio360.dll,1499136,2D77400A,10400
+0,0,CR EditSystem_Data\Plugins\x86_64\AVProVideo.dll,891392,A3612D4B,10400
+0,0,CR EditSystem_Data\Plugins\x86_64\crc.dll,2094592,E070BE17,10400
+0,0,CR EditSystem_Data\Plugins\x86_64\device_hook.dll,733696,16904EAF,10400
+0,0,CR EditSystem_Data\Plugins\x86_64\lib_burst_generated.dll,289792,C09F3D80,10400
+0,0,CR EditSystem_Data\Plugins\x86_64\lib_burst_generated.txt,116100,88C49E19,10400
+0,0,CR EditSystem_Data\Resources\unity default resources,4844912,B14E0B60,10400
+0,0,CR EditSystem_Data\Resources\unity_builtin_extra,355540,D4E3500C,10400
+0,0,CR EditSystem_Data\StreamingAssets\aa\AddressablesLink\link.xml,1084,4F90C400,10400
+0,0,CR EditSystem_Data\StreamingAssets\aa\StandaloneWindows64\defaultlocalgroup_assets_all_26e0f856eb2d25929fc7ecd0a28e1339.bundle,4364,BF4160FF,10400
+0,0,CR EditSystem_Data\StreamingAssets\aa\catalog.json,76815,2DD23822,10400
+0,0,CR EditSystem_Data\StreamingAssets\aa\settings.json,812,AD48EA67,10400
+0,0,CR EditSystem_Data\app.info,18,37D455F7,10400
+0,0,CR EditSystem_Data\boot.config,49,56DD06A5,10400
+0,0,CR EditSystem_Data\globalgamemanagers,248388,F4AEF2FF,10400
+0,0,CR EditSystem_Data\globalgamemanagers.assets,412740,2CA2FEE0,10400
+0,0,CR EditSystem_Data\level0,24228,E9592554,10400
+0,0,CR EditSystem_Data\level1,831972,49A05A31,10400
+0,0,CR EditSystem_Data\resources.assets,6697520,DA462847,10400
+0,0,CR EditSystem_Data\resources.assets.resS,8930364,4E6512CD,10400
+0,0,CR EditSystem_Data\RuntimeInitializeOnLoads.json,939,07D1E6A9,10400
+0,0,CR EditSystem_Data\ScriptingAssemblies.json,3819,171EDE23,10400
+0,0,CR EditSystem_Data\sharedassets0.assets,3786680,974C1E95,10400
+0,0,CR EditSystem_Data\sharedassets0.assets.resS,2654208,E6C7A319,10400
+0,0,CR EditSystem_Data\sharedassets1.assets,427560,FE56D1E7,10400
+0,0,CR EditSystem_Data\sharedassets1.assets.resS,59564,75BEB53E,10400
+0,0,GameData\assets\bg.aba,62525183,CD0F9622,10300
+0,0,GameData\assets\bg.ct,711,A16ECEA5,10300
+0,0,GameData\assets\parts_2.aba,63399511,E8BD9B5D,10400
+0,0,GameData\assets\parts_2.ct,7136,F202621E,10400
+0,0,GameData\assets\partsmeta.aba,12479,6ED7C718,10200
+0,0,GameData\assets\partsmeta.ct,1074,DA4DCDBA,10200
+0,0,GameData\assets\system.aba,664731,72652715,10300
+0,0,GameData\assets\system.ct,12525,7E42D8F0,10300
+0,0,GameData\dlc\parts_bcc4_gp003_2.aba,2371174,EC2A8475,10200
+0,0,GameData\dlc\parts_bcc4_gp003_2.ct,979,B9A46D07,10200
+0,0,GameData\dlc\parts_shop011_gp003_2.aba,5623527,C011494D,10300
+0,0,GameData\dlc\parts_shop011_gp003_2.ct,1180,A242C8B6,10300
+0,0,MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll,4974472,68D8603E,10400
+0,0,MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll,780288,D5EFFDF7,10400
+0,0,MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser,1605,2E178A0B,10400
+0,0,MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx,60575,95F9D0B4,10400
+0,0,MonoBleedingEdge\etc\mono\2.0\machine.config,29116,95068D9C,10400
+0,0,MonoBleedingEdge\etc\mono\2.0\settings.map,2622,AD5340F9,10400
+0,0,MonoBleedingEdge\etc\mono\2.0\web.config,11686,534A9960,10400
+0,0,MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser,1605,2E178A0B,10400
+0,0,MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx,60575,95F9D0B4,10400
+0,0,MonoBleedingEdge\etc\mono\4.0\machine.config,33648,C2F58754,10400
+0,0,MonoBleedingEdge\etc\mono\4.0\settings.map,2622,DC24A240,10400
+0,0,MonoBleedingEdge\etc\mono\4.0\web.config,18848,46DCAC4D,10400
+0,0,MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser,1605,2E178A0B,10400
+0,0,MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx,60575,95F9D0B4,10400
+0,0,MonoBleedingEdge\etc\mono\4.5\machine.config,34106,E7E2F2D3,10400
+0,0,MonoBleedingEdge\etc\mono\4.5\settings.map,2622,DC24A240,10400
+0,0,MonoBleedingEdge\etc\mono\4.5\web.config,18857,C3DF527D,10400
+0,0,MonoBleedingEdge\etc\mono\mconfig\config.xml,25817,80B2033A,10400
+0,0,MonoBleedingEdge\etc\mono\browscap.ini,311984,CE6C0AB3,10400
+0,0,MonoBleedingEdge\etc\mono\config,3276,B5C7D62E,10400
+0,0,CR EditSystem.exe,653824,E2AD8079,10400
+0,0,UnityCrashHandler64.exe,1249672,32CDC774,10400
+0,0,UnityPlayer.dll,28280200,40BE68D4,10400
