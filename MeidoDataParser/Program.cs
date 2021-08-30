@@ -31,6 +31,7 @@ namespace MeidoDataParser
         public bool outputMini;
         public bool outputFull;
         public string searchDir;
+        public bool noDLC;
     }
 
     class Program
@@ -64,6 +65,7 @@ namespace MeidoDataParser
             foreach (string file in Directory.EnumerateFiles(settings.searchDir, "*.lst", SearchOption.AllDirectories))
             {
                 if (!string.IsNullOrEmpty(filter) && !file.Contains(filter)) continue;
+                if (settings.noDLC && file.Contains(Path.Combine(settings.searchDir, "DLC"))) continue;
 
                 var pack = new UpdatePack { name = Path.GetFileName(Path.GetDirectoryName(file)) };
 
