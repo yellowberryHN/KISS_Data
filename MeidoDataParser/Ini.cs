@@ -16,6 +16,8 @@ public class Ini
     /// <param name="file">Full path where the INI file has to be read from or written to</param>
     public Ini(string file)
     {
+        Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+
         this.file = file;
 
         if (!File.Exists(file))
@@ -29,7 +31,7 @@ public class Ini
     /// </summary>
     public void Load()
     {
-        var txt = File.ReadAllText(file, Encoding.UTF8);
+        var txt = File.ReadAllText(file, Encoding.GetEncoding("shift-jis")); // cringe encoding is cringe
 
         Dictionary<string, string> currentSection = new Dictionary<string, string>(StringComparer.InvariantCultureIgnoreCase);
 

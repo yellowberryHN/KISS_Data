@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text;
 using Newtonsoft.Json;
 
 namespace MeidoDataParser
@@ -22,6 +24,7 @@ namespace MeidoDataParser
         public string appExe;
         public string category;
         public string registry;
+        public string language;
         public List<UpdateFile> files;
     }
 
@@ -56,8 +59,10 @@ namespace MeidoDataParser
             string jsonMin = JsonConvert.SerializeObject(packs, Formatting.None, jsonSettings);
 
             //Console.WriteLine(jsonIgnoreNullValues);
-            File.WriteAllText(Path.Combine(settings.searchDir, @$"kiss{(string.IsNullOrEmpty(settings.filter)?"":$"-{settings.filter}")}.json"), json);
-            File.WriteAllText(Path.Combine(settings.searchDir, @$"kiss{(string.IsNullOrEmpty(settings.filter)?"":$"-{settings.filter}")}.min.json"), jsonMin);
+            File.WriteAllText(Path.Combine(settings.searchDir, @$"kiss{(string.IsNullOrEmpty(settings.filter)?"":$"-{settings.filter}")}.json"), json, Encoding.UTF8);
+            File.WriteAllText(Path.Combine(settings.searchDir, @$"kiss{(string.IsNullOrEmpty(settings.filter)?"":$"-{settings.filter}")}.min.json"), jsonMin, Encoding.UTF8);
+
+            Console.WriteLine($"Successfully parsed {packs.Count} update packs!");
         }
 
         static void ReadData(string filter)
@@ -78,12 +83,40 @@ namespace MeidoDataParser
 
         static void ParseIni(UpdatePack pack, string filename)
         {
+            string[] known = {
+                "Company",
+                "AppName",
+                "AppExe",
+                "Registry1",
+                "Category",
+                "Language",
+                // unimportant
+                "ShortcutName",
+                "ShortcutExe",
+                "ShortcutParam",
+                "VerExe",
+                "ReqVer",
+                "Company2",
+                "Registry2",
+                "RejectVerRangeMin",
+                "RejectVerRangeMax",
+                "RejectVerMsg",
+                "CheckFile",
+                "CheckFileCRC32"
+            };
+
             var ini = new Ini(filename);
             pack.company = ini.GetValue("Company", "UPDATER", null);
             pack.appName = ini.GetValue("AppName", "UPDATER", null);
             pack.appExe = ini.GetValue("AppExe", "UPDATER", null);
             pack.registry = ini.GetValue("Registry1", "UPDATER", null);
             pack.category = ini.GetValue("Category", "UPDATER", null);
+            pack.language = ini.GetValue("Language", "UPDATER", null);
+            
+            foreach (var key in ini.GetKeys("UPDATER").Except(known))
+            {
+                Console.WriteLine($"[INFO] Unknown key \"{key}\" with value \"{ini.GetValue(key, "UPDATER", null)}\" in {pack.name}");
+            }
         }
 
         static void ParseLst(UpdatePack pack, string filename)
@@ -105,6 +138,8 @@ namespace MeidoDataParser
 
                 fileList.Add(file);
             }
+
+            if (fileList.Count < 1) throw new InvalidDataException("No files found in update.lst, this shouldn't happen.");
 
             pack.files = fileList;
         }
