@@ -3,5 +3,8 @@
   "searchDir": "..\\..\\..\\..\\RAW",
   "outputFull": true,
   "outputMini": true,
-  "noDLC": false
+  "noDLC": false,
+  "checkDLCs": true,
+  "sortUpdates": true,
+  "verbose": true
 }

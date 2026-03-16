@@ -5,7 +5,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <StartupObject>MeidoDataParser.Program</StartupObject>
   </PropertyGroup>
-  
+
+  <ItemGroup>
+    <PackageReference Include="Crc32.NET" Version="1.2.0" />
+  </ItemGroup>
+
   <ItemGroup>
     <None Update="config.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

@@ -1,0 +1,6 @@
+share,../GameData\cm3d2\paths.dat,GameData\paths.dat,9159,471C6BE9,1656
+share,../GameData\cm3d2\prioritymaterial.arc,GameData\prioritymaterial.arc,289947,C77EB0EC,1654
+share,../GameData\cm3d2\menu_bcc3.arc,GameData\menu_bcc3.arc,5578,F3BC0873,1000
+share,../GameData\cm3d2\material_bcc3.arc,GameData\material_bcc3.arc,5078,AC632CFD,1000
+share,../GameData\cm3d2\texture_bcc3.arc,GameData\texture_bcc3.arc,11629387,137D857F,1000
+share,../GameData\cm3d2\model_bcc3.arc,GameData\model_bcc3.arc,5875342,7B9399D3,1000

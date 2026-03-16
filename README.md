@@ -1,18 +1,29 @@
 ﻿# KISS Data
 
-A collection of data harvested from the updates of [KISS](http://kisskiss.tv) software titles.
+A collection of metadata harvested from the updates and DLC of [KISS](http://kisskiss.tv) software titles.
 
 The current data set includes the following software:
 - CM3D2
   - CM3D2 Chu-B Lip
   - CM3D2 VR β
   - CM3D2 Chu-B Lip VR β
+  - CM3D2 Edit Trial
 - COM3D2
   - COM3D2 Chu-B Lip
   - COM3D2.5
+  - COM3D2.5 Chu-B Lip
   - COM3D2 EN (R18)
+  - COM3D2.5 EN (R18)
   - COM3D2 INM
-- CR EditSystem
+- KISSCharacter EditSystem/CR EditSystem
+- CustomStudio α
+
+The following software exists in the data set, but are currently invalid:
+- CM3D
+  - CM3D Ju-C AIR
+  - CM3D Chu-B Lip
+
+# NOTICE: This repo does not contain any game or DLC assets! This is not the place for such things.
 
 ## Download
 
@@ -22,82 +33,52 @@ The current data set includes the following software:
 ## Usage
 
 The data is presented in JSON format.
-If you are trying to preserve bandwidth, use the .min version.
+If you are trying to preserve bandwidth or storage, use the .min version.
 Same data, no whitespace.
 
 A sample of what it looks like:
 ```json
-[
-  {
-    "name": "cm3d2_up101_x64",
-    "company": "KISS",
-    "appName": "カスタムメイド3D2",
-    "appExe": "CM3D2.exe",
-    "category": "アップデータ",
-    "registry": "カスタムメイド3D2",
-    "files": [
-      {
-        "fileName": "CM3D2x64.exe",
-        "size": 14913024,
-        "hash": "267C4E4A",
-        "version": 101
-      },
-      {
-        "fileName": "CM3D2.exe",
-        "size": 6248448,
-        "hash": "E5768F9F",
-        "version": 101
-      },
-      {
-        "fileName": "CM3D2x64_Data\\level0",
-        "size": 147760,
-        "hash": "DC9A914F",
-        "version": 101
-      },
-      ...
-    ]
-  },
-  {
-    "name": "cres_up1_10_0",
-    "company": "KISS",
-    "appName": "CR EditSystem",
-    "appExe": "CR Launcher.exe",
-    "category": "アップデータ",
-    "registry": "CR EditSystem",
-    "files": [
-      {
-        "fileName": "CR EditSystem.exe",
-        "size": 653824,
-        "hash": "4922FB81",
-        "version": 11000
-      },
-      {
-        "fileName": "CR Launcher.exe",
-        "size": 6199296,
-        "hash": "3043369E",
-        "version": 110000
-      },
-      {
-        "fileName": "UnityCrashHandler64.exe",
-        "size": 1249672,
-        "hash": "CAC3AE6D",
-        "version": 11000
-      },
-      {
-        "fileName": "UnityPlayer.dll",
-        "size": 28066696,
-        "hash": "7D5D0F91",
-        "version": 11000
-      },
-      ...
-    ]
-  }
-]
+{
+  "version": "2026-03-03",
+  "games": [
+    {
+      "game": "cm3d2",
+      "files": [
+        {
+          "filepath": "CM3D2.exe",
+          "updates": [
+            {
+              "size": 6044160,
+              "hash": "70FC4DED",
+              "version": 100,
+              "source": "cm3d2"
+            },
+            {
+              "size": 6248448,
+              "hash": "E5768F9F",
+              "version": 101,
+              "source": "cm3d2_up101_x64"
+            },
+            {
+              "size": 6257152,
+              "hash": "9C5FAD73",
+              "version": 1003,
+              "source": "cm3d2_up104_x64"
+            },
+            ...
+          ]
+        },
+        ...
+      ]
+    },
+    ...
+  ]
+}
 ```
 
 ## MeidoDataParser
 
-Included is a basic .NET 5.0 project which is used to generate the .json files.
+Included is a basic .NET 8.0 project which is used to generate the .json files.
 **If you have to ask how to use this, it's not for you.**
 
 ## Contributing
@@ -106,11 +87,18 @@ Included is a basic .NET 5.0 project which is used to generate the .json files.
 
 When a new update is released or if you have files this repo is missing,
 you may submit a pull request to add them, or send them to me on Discord at
-**Yellow#7755**. I am also looking for DLC update metadata files,
+**yellowberryhn**. I am also looking for DLC update metadata files,
 so those are welcome as well.
 
+The easiest way for you to contribute is to run the `7z x -o"lists" -r *.zip *.lst`
+command from inside the folder you have your downloaded update and DLC .zip files,
+and then zip up the created `lists` folder and send that to me.
+
+### [List of the files that are confirmed missing](MISSING.md)
+
 **Please ensure that the directory name is the same as the .zip file it came from,
-your PR may be rejected otherwise.**
+your PR may be rejected otherwise. Some directory names might be wrong, as I've sourced
+this data from many places, so some names are educated guesses.**
 
 ## License
 
