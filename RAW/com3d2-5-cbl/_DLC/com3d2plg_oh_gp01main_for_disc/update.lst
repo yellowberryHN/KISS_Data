@@ -1,0 +1,11 @@
+share,../GameData\bg_gp001.arc,GameData\bg_gp001.arc,22560401,8631CC99,1000
+share,../GameData\csv_gp001.arc,GameData\csv_gp001.arc,79219,3530BFAB,1000
+share,../GameData\motion_cbl_gp001.arc,GameData\motion_cbl_gp001.arc,249414980,2DB06AB9,1000
+share,../GameData\parts_gp001.arc,GameData\parts_gp001.arc,104620924,89571673,1000
+share,../GameData\script_cbl_gp001.arc,GameData\script_cbl_gp001.arc,782527,C2505D4A,1000
+share,../GameData\sound_gp001.arc,GameData\sound_gp001.arc,7066445,6AD9FA1B,1000
+share,../GameData\system_gp001.arc,GameData\system_gp001.arc,3763442,452ABA8A,1000
+share,../GameData\voice_gp001.arc,GameData\voice_gp001.arc,2439176312,F69A0837,1000
+share,../GameData\movie_gp001\FUA_P.ine,GameData\movie_gp001\FUA_P.ine,19881127,2E68199C,1000
+share,../GameData\movie_gp001\SDB_LS.ine,GameData\movie_gp001\SDB_LS.ine,19018907,600157DE,1000
+share,../GameData\movie_gp001\SDB_T.ine,GameData\movie_gp001\SDB_T.ine,20091298,2077E5F5,1000
